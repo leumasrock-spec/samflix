@@ -1,0 +1,302 @@
+{
+ "site": "https://bioflix.vercel.app/",
+ "pdf_links": [
+  "https://bioflix.vercel.app/",
+  "https://drive.google.com/drive/folders/1-ftb5iARJTQP5Y9_-Ob9g28iiO4E7L3J?usp=sharing"
+ ],
+ "cats": [
+  {
+   "slug": "bf-corpo-humano",
+   "label": "Corpo Humano",
+   "icon": "🫀",
+   "videos": [
+    {
+     "id": "pZtUB-lr4zs",
+     "t": "O cérebro e o sistema nervoso · O cérebro",
+     "c": "Canal History Brasil",
+     "yt": "Qual a capacidade máxima do cérebro humano? | INEXPLICÁVEL COM WILLIAM SHATNER | HISTORY",
+     "sin": "Neurônios, nervos e medula: como o centro de comando do corpo pensa, sente e controla tudo.",
+     "poster": "assets/bioflix/o-cerebro-e-o-sistema-nervoso.jpg",
+     "banner": "assets/bioflix/o-cerebro-e-o-sistema-nervoso-banner.jpg",
+     "dest": 4
+    },
+    {
+     "id": "ruXPbZ7qKgo",
+     "t": "O cérebro e o sistema nervoso · O sistema nervoso",
+     "c": "INCRÍVEL",
+     "yt": "Uma viagem através do seu sistema nervoso",
+     "sin": "Neurônios, nervos e medula: como o centro de comando do corpo pensa, sente e controla tudo.",
+     "poster": "assets/bioflix/o-cerebro-e-o-sistema-nervoso.jpg",
+     "banner": "assets/bioflix/o-cerebro-e-o-sistema-nervoso-banner.jpg",
+     "dest": 4
+    },
+    {
+     "id": "mGpDtRsF_Bo",
+     "t": "Sistema respiratório",
+     "c": "Professor Bernardo Belmonte",
+     "yt": "SISTEMA RESPIRATÓRIO - DISCOVERY CHANNEL",
+     "sin": "A jornada do ar pelo corpo: das vias aéreas aos alvéolos, onde acontece a troca de gases.",
+     "poster": "assets/bioflix/sistema-respiratorio.jpg",
+     "banner": null,
+     "dest": null
+    },
+    {
+     "id": "EEDp_GcUXM8",
+     "t": "O coração humano",
+     "c": "INCRÍVEL",
+     "yt": "Seu Coração É o Motor Mais Poderoso do Mundo",
+     "sin": "Câmaras, valvas e batimentos: como o coração bombeia sangue para o corpo inteiro.",
+     "poster": "assets/bioflix/o-coracao-humano.jpg",
+     "banner": "assets/bioflix/o-coracao-humano-banner.jpg",
+     "dest": 5
+    },
+    {
+     "id": "u5Ujnzgy7fA",
+     "t": "Sistema circulatório",
+     "c": "Enfermagem Digital",
+     "yt": "SISTEMA CIRCULATÓRIO - AULA COMPLETA - SISTEMA CARDIOVASCULAR",
+     "sin": "O caminho do sangue por artérias, veias e capilares, levando oxigênio e nutrientes a cada célula.",
+     "poster": "assets/bioflix/sistema-circulatorio.jpg",
+     "banner": null,
+     "dest": null
+    },
+    {
+     "id": "92ZF-tJFNdg",
+     "t": "Sistema digestório",
+     "c": "Acadêmico Gilmarcos lima",
+     "yt": "SISTEMA DIGESTÓRIO    COMPLETO   DISCOVERY CHANNEL   CIÊNCIAS JÁ!",
+     "sin": "Da boca ao intestino: como o alimento é transformado e absorvido pelo organismo.",
+     "poster": "assets/bioflix/sistema-digestorio.jpg",
+     "banner": null,
+     "dest": null
+    },
+    {
+     "id": "_5z3H3DdeJs",
+     "t": "Sistema imunológico",
+     "c": "Canal Ciências",
+     "yt": "Sistema Imunológico: Seu Exército Invisível de Defesa!",
+     "sin": "As células e as barreiras que protegem o corpo contra vírus, bactérias e outros invasores.",
+     "poster": "assets/bioflix/sistema-imunologico.jpg",
+     "banner": null,
+     "dest": null
+    }
+   ]
+  },
+  {
+   "slug": "bf-gentica-e-evoluo",
+   "label": "Genética e Evolução",
+   "icon": "🧬",
+   "videos": [
+    {
+     "id": "JHx03as_YZE",
+     "t": "Dinossauros e a história dos fósseis",
+     "c": "ABC Terra",
+     "yt": "A história do mesozoico: ascensão e queda dos dinossauros",
+     "sin": "Como os fósseis revelam quem foram os dinossauros e contam a história da vida na Terra.",
+     "poster": "assets/bioflix/dinossauros-e-a-historia-dos-fosseis.jpg",
+     "banner": null,
+     "dest": null
+    },
+    {
+     "id": "ik1wkDD3IIM",
+     "t": "Genética e hereditariedade",
+     "c": "Origens NT",
+     "yt": "Gregor Mendel: como funciona a hereditariedade?",
+     "sin": "Genes, cromossomos e herança: como as características passam de geração em geração.",
+     "poster": "assets/bioflix/genetica-e-hereditariedade.jpg",
+     "banner": null,
+     "dest": null
+    },
+    {
+     "id": "VS-kn7N6N8M",
+     "t": "Evolução das espécies",
+     "c": "ABC Terra",
+     "yt": "A evolução dos humanos: Quando nós não estávamos sozinhos.",
+     "sin": "Como a seleção natural, as mutações e o tempo deram origem à enorme diversidade de seres vivos que existem hoje.",
+     "poster": "assets/bioflix/evolucao-das-especies-1.jpg",
+     "banner": "assets/bioflix/evolucao-das-especies-1-banner.jpg",
+     "dest": 1
+    },
+    {
+     "id": "6JZVUe_hiPA",
+     "t": "Evolução das espécies",
+     "c": "Planeta Antigo",
+     "yt": "A Impactante Origem da Vida e o Nascimento da Terra | Documentário Completo",
+     "sin": "Como a seleção natural, as mutações e o tempo deram origem à enorme diversidade de seres vivos que existem hoje.",
+     "poster": "assets/bioflix/evolucao-das-especies-2.jpg",
+     "banner": null,
+     "dest": null
+    },
+    {
+     "id": "EIGWzwAmH7E",
+     "t": "DNA: o código da vida",
+     "c": "Rádio e TV Justiça",
+     "yt": "🎥 Documentário - O valor do nosso DNA",
+     "sin": "Da estrutura da dupla hélice à herança genética: como a informação da vida é guardada e copiada.",
+     "poster": "assets/bioflix/dna-o-codigo-da-vida.jpg",
+     "banner": "assets/bioflix/dna-o-codigo-da-vida-banner.jpg",
+     "dest": 3
+    }
+   ]
+  },
+  {
+   "slug": "bf-ecologia",
+   "label": "Ecologia",
+   "icon": "🌎",
+   "videos": [
+    {
+     "id": "Nz7ffAyUVEI",
+     "t": "A vida nos oceanos",
+     "c": "NatureVista - Português",
+     "yt": "OCEANOS INFINITOS | Uma Jornada pelos Oceanos do Mundo - Documentário Completo",
+     "sin": "Baleias, tartarugas, corais e criaturas do fundo do mar: os segredos do maior ecossistema do planeta.",
+     "poster": "assets/bioflix/a-vida-nos-oceanos.jpg",
+     "banner": null,
+     "dest": null
+    },
+    {
+     "id": "1XJq39LFuBU",
+     "t": "Cadeia alimentar · A cadeia alimentar mais brutal da Terra está no fundo do oceano",
+     "c": "Artefatos da História",
+     "yt": "A Cadeia Alimentar Mais Brutal da Terra Está no Fundo do Oceano",
+     "sin": "Produtores, consumidores e decompositores: como a energia circula entre os seres vivos de um ecossistema.",
+     "poster": "assets/bioflix/cadeia-alimentar.jpg",
+     "banner": null,
+     "dest": null
+    },
+    {
+     "id": "yVa3BYcpH2Q",
+     "t": "Cadeia alimentar · A cadeia alimentar da Caatinga: até o predador que ninguém vê",
+     "c": "Bioma Vivo",
+     "yt": "A Cadeia Alimentar da Caatinga — Até o Predador Que Ninguém Vê - NÃO É DESERTO - EP 06 - T02",
+     "sin": "Produtores, consumidores e decompositores: como a energia circula entre os seres vivos de um ecossistema.",
+     "poster": "assets/bioflix/cadeia-alimentar.jpg",
+     "banner": null,
+     "dest": null
+    },
+    {
+     "id": "X4Xj2wFHtVs",
+     "t": "Cadeia alimentar · Como funciona uma cadeia alimentar?",
+     "c": "Toda Matéria",
+     "yt": "Como funciona uma Cadeia Alimentar?",
+     "sin": "Produtores, consumidores e decompositores: como a energia circula entre os seres vivos de um ecossistema.",
+     "poster": "assets/bioflix/cadeia-alimentar.jpg",
+     "banner": null,
+     "dest": null
+    },
+    {
+     "id": "D_Vlfvp1WNA",
+     "t": "Biomas brasileiros",
+     "c": "Conexão Terra",
+     "yt": "BRASIL SELVAGEM: A Vida Secreta dos Biomas Brasileiros | Documentário Completo",
+     "sin": "Amazônia, Cerrado, Mata Atlântica, Caatinga, Pantanal e Pampa: clima, fauna e flora de cada bioma.",
+     "poster": "assets/bioflix/biomas-brasileiros.jpg",
+     "banner": null,
+     "dest": null
+    }
+   ]
+  },
+  {
+   "slug": "bf-botnica",
+   "label": "Botânica",
+   "icon": "🌿",
+   "videos": [
+    {
+     "id": "o0CSQ4PIbqA",
+     "t": "Reprodução das plantas e polinização · Reprodução das plantas",
+     "c": "documentaryondemand",
+     "yt": "A Vida das Plantas - Documentário dublado",
+     "sin": "Do encontro do pólen ao nascimento de uma nova planta: flores, polinizadores e sementes.",
+     "poster": "assets/bioflix/reproducao-das-plantas-e-polinizacao.jpg",
+     "banner": null,
+     "dest": null
+    },
+    {
+     "id": "jDoZvEDqMME",
+     "t": "Reprodução das plantas e polinização · Polinização",
+     "c": "Mundo Feroz ",
+     "yt": "O MUNDO SECRETO DAS ABELHAS | A Vida Dentro da Colmeia - Documentário",
+     "sin": "Do encontro do pólen ao nascimento de uma nova planta: flores, polinizadores e sementes.",
+     "poster": "assets/bioflix/reproducao-das-plantas-e-polinizacao.jpg",
+     "banner": null,
+     "dest": null
+    },
+    {
+     "id": "xEWS1r2k15E",
+     "t": "Fotossíntese",
+     "c": "JOAO VICTOR DE JESUS LUZ",
+     "yt": "Cosmos - Episódio 06: Fotossíntese.",
+     "sin": "Como as plantas transformam luz, água e gás carbônico em energia e oxigênio.",
+     "poster": "assets/bioflix/fotossintese.jpg",
+     "banner": null,
+     "dest": null
+    }
+   ]
+  },
+  {
+   "slug": "bf-clula",
+   "label": "Célula",
+   "icon": "🔬",
+   "videos": [
+    {
+     "id": "qW9_Sq2vSPc",
+     "t": "Viagem ao interior da célula",
+     "c": "Estude com Rosbergue Lúcio",
+     "yt": "A vida interna da Célula (com legenda)",
+     "sin": "Um mergulho dentro da célula para ver, em movimento, como a unidade básica da vida funciona.",
+     "poster": "assets/bioflix/viagem-ao-interior-da-celula.jpg",
+     "banner": null,
+     "dest": null
+    },
+    {
+     "id": "TONFarZM_ds",
+     "t": "Organelas celulares",
+     "c": "Angelo Bilac",
+     "yt": "Organelas celulares animação 3D",
+     "sin": "Núcleo, mitocôndrias, ribossomos e outras organelas: o que cada uma faz e como trabalham juntas.",
+     "poster": "assets/bioflix/organelas-celulares.jpg",
+     "banner": null,
+     "dest": null
+    },
+    {
+     "id": "v_8Zvkuj3d8",
+     "t": "Mitose e meiose",
+     "c": "Doc Mundi",
+     "yt": "As Maiores Descobertas da Biologia | Mitose",
+     "sin": "Como as células se dividem para crescer, se renovar e formar os gametas, passo a passo.",
+     "poster": "assets/bioflix/mitose-e-meiose.jpg",
+     "banner": null,
+     "dest": null
+    }
+   ]
+  },
+  {
+   "slug": "bf-microbiologia",
+   "label": "Microbiologia",
+   "icon": "🦠",
+   "videos": [
+    {
+     "id": "qwruWhcfUt0",
+     "t": "O mundo invisível dos vírus e bactérias · Vírus e bactérias",
+     "c": "E- Documentários",
+     "yt": "Tudo sobre os vírus (Documentário)",
+     "sin": "Microrganismos invisíveis que adoecem, protegem e moldam a vida: como vírus e bactérias funcionam.",
+     "poster": "assets/bioflix/o-mundo-invisivel-dos-virus-e-bacterias.jpg",
+     "banner": "assets/bioflix/o-mundo-invisivel-dos-virus-e-bacterias-banner.jpg",
+     "dest": 2
+    },
+    {
+     "id": "p_Hfpc32N_k",
+     "t": "O mundo invisível dos vírus e bactérias · Documentário complementar",
+     "c": "Maurice Jennings",
+     "yt": "Documentário Completo Dublado Bactéria Fatal Portuges Biologia i",
+     "sin": "Microrganismos invisíveis que adoecem, protegem e moldam a vida: como vírus e bactérias funcionam.",
+     "poster": "assets/bioflix/o-mundo-invisivel-dos-virus-e-bacterias.jpg",
+     "banner": "assets/bioflix/o-mundo-invisivel-dos-virus-e-bacterias-banner.jpg",
+     "dest": 2
+    }
+   ]
+  }
+ ],
+ "skipped": []
+}
